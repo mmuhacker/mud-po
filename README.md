@@ -49,7 +49,7 @@ padding: 5px;">
 - [أزرار التحكم](#أزرار)
 - [أمثلة على النتائج](#نتائج)
 - [هيكل الملفات](#هيكل)
-- [ملف requirements.txt](https://github.com/mmuhacker/mud-po/blob/main/README.md#-%D9%85%D9%84%D9%81-requirementstxt)
+- [ملف requirements.txt](#txt)
 - [المساهمة](#مساهم)
 - [المطور](#المطور)
 - [الرخصة](#رخصة)
@@ -363,7 +363,7 @@ mud-po/
 
 ---
 
-<div align="center" id"txt">
+<div align="center" id="txt">
 
 ## 📝 ملف requirements.txt
 
