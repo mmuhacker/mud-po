@@ -245,7 +245,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install python3 python3-pip -
 
 📷 **القائمة الرئيسية – إدراج مفاتيح API**
 
-<img src="img/PO1.png"
+<img src="img/po1.png"
 width="90%"
 style="border-radius: 20px;
 border: 2px solid var(--color-border-default);
@@ -315,7 +315,7 @@ border: 2px solid var(--color-border-default);
 box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 background: var(--color-canvas-default);
 padding: 5px;">
-<img src="img/PO4.png"
+<img src="img/po4.png"
 width="90%"
 style="border-radius: 20px;
 border: 2px solid var(--color-border-default);
