@@ -287,7 +287,7 @@ po
 
 📷 **إدخال الرقم**
 
-<img src="img/PO2.png"
+<img src="img/po2.png"
 width="90%"
 style="border-radius: 20px;
 border: 2px solid var(--color-border-default);
@@ -308,7 +308,7 @@ padding: 5px;">
 
 📷 **مثال على النتائج**
 
-<img src="img/PO3.png"
+<img src="img/po3.png"
 width="90%"
 style="border-radius: 20px;
 border: 2px solid var(--color-border-default);
